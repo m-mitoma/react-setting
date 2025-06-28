@@ -119,7 +119,7 @@ README.md
 lang変更、icon削除、タイトル変更EADME.md
 
 -----
-7.firebaseのインストール
+7.Firebaseのインストール
 -----
 npm install firebase
 
