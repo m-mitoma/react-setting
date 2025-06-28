@@ -102,7 +102,7 @@ git status
 5-1.githubでmainブランチにプルリクするとき
 -----
 vscode拡張機能
-GitHub Pull Requests and Issues
+GitHub Pull Requests
 
 -----
 6.vercelと連携
