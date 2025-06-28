@@ -1,13 +1,21 @@
+-----
 1.現在のフォルダでReact TypeScriptでインストール
+-----
 npm create vite@latest . -- --template react-ts
 
+-----
 2.npmをインストール
+-----
 npm install
 
+-----
 3.ローカルサーバーを立ち上げ
+-----
 npm run dev
 
+-----
 4.eslintをインストールするコマンド
+-----
 npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-refresh eslint-config-prettier prettier
 
 
@@ -72,7 +80,10 @@ scriptsに追加
 "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
 "lint:fix": "eslint . --ext ts,tsx --fix",
 
+-----
 5.githubをインストール
+-----
+
 git init
 git add .
 git commit -m "Initial commit"
@@ -84,7 +95,10 @@ git push -u origin main
 git branch
 git status
 
+-----
 6.vercelと連携
+-----
+
 npm install vercel --save-dev
 
 package.jsonの"scripts"
@@ -104,10 +118,12 @@ README.md
 
 lang変更、icon削除、タイトル変更EADME.md
 
-
-6.
+-----
+7.firebase
+-----
 npm install firebase
 
-7.
-react-hook-form
+-----
+8.react-hook-form
+-----
 npm install react-hook-form
