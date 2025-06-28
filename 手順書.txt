@@ -119,11 +119,11 @@ README.md
 lang変更、icon削除、タイトル変更EADME.md
 
 -----
-7.firebase
+7.firebaseのインストール
 -----
 npm install firebase
 
 -----
-8.react-hook-form
+8.react-hook-formのインストール
 -----
 npm install react-hook-form
