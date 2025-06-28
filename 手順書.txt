@@ -14,7 +14,7 @@ npm install
 npm run dev
 
 -----
-4.eslintをインストールするコマンド
+4.eslintとprettierをインストールするコマンド
 -----
 npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-refresh eslint-config-prettier prettier
 
