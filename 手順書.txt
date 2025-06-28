@@ -1,4 +1,4 @@
-React環境構築
+React環境構築手順
 
 -----
 1.現在のフォルダでReact TypeScriptでインストール
